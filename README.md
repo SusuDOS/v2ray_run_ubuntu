@@ -1,3 +1,5 @@
+## v2ray run on ubuntu cross GFW.
+"""
 # v2ray_run_ubuntu
 this is description how to cross GFW on the ubuntu with v2ray
 
@@ -44,3 +46,4 @@ proxychains bash
 
 # stop v2ray
 service v2ray stop
+"""
